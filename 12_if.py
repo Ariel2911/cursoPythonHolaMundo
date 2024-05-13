@@ -9,4 +9,10 @@ elif EDAD > 17:
 else:
     print("No puedes ver la pelicula")
 
+# ternario
+
+MENSAJE = "Es mayor" if EDAD > 17 else "Es menor"
+
+print(MENSAJE)
+
 print("listo")
