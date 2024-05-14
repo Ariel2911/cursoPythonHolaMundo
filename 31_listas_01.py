@@ -47,6 +47,7 @@ print(PRIMERO, OTROS, ULTIMO)
 # iterar listas
 print("\nIterar listas\n")
 
+# imprime los elementos
 for mascota in MASCOTAS:
     print(mascota)
 # imprime los elementos en forma de tuplas
